@@ -6,18 +6,8 @@ The Food Donation and Redistribution Platform is a mobile application aimed at r
 ---
 
 ## Workflow Diagram
-1. *User Registration*: Donors and recipients create accounts.
-2. *Food Details Upload*: Donors specify food type, quantity, and availability.
-3. *Real-Time Notifications*: Alerts sent to nearby recipients.
-4. *Matching and Routing*: Location-based pairing of donors and recipients.
-5. *Logistics Coordination*: Food pickup and delivery scheduling.
-6. *Food Safety Checks*: Quality verification before distribution.
-7. *Distribution*: Recipients redistribute food to those in need.
-8. *Feedback and Reporting*: Users provide feedback, and impact metrics are tracked.
 
----
-
-## Concept Map
+![Image](https://github.com/user-attachments/assets/7a3db427-e1fc-4399-9a5c-461f2936f10e)
 
 ### Core Elements:
 - *Food Donors*: Hotels, caterers, and event organizers.
